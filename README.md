@@ -4,6 +4,8 @@
 
 # BlogToo
 
+[![Join the chat at https://gitter.im/AlanBarber/blogtoo](https://badges.gitter.im/AlanBarber/blogtoo.svg)](https://gitter.im/AlanBarber/blogtoo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A database-less, file driven ASP.NET Core blogging platform!
 
 BlogToo is designed as a simple to use, basic blogging platform.
